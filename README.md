@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ManuStu-web
+- 👋 Hi, I’m Manu Sharma
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Java
 - 😄 Pronouns: He/him
