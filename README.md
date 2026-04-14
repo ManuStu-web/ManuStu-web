@@ -70,7 +70,7 @@
 ## 📫 Connect With Me
 
 - 📧 Email: MSharma.stu@gmail.com  
-- 💼 LinkedIn: Add your LinkedIn link here  
+- 💼 LinkedIn: https://www.linkedin.com/in/mnusharma/ 
 
 ---
 
