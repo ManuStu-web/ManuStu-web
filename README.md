@@ -146,7 +146,7 @@ A full-stack task management app for creating, tracking, and organizing daily ta
 <td width="50%" valign="top">
 
 ### 🎬 Captionly
-A tool built to generate and manage captions, streamlining the process of adding them to content.
+A tool to store your images without worrying about the storage 
 
 `JavaScript` `Node.js`
 
@@ -165,19 +165,6 @@ A recreation of the classic Flappy Bird game built from scratch in Java, focused
 </td>
 </tr>
 </table>
-
-<br/>
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ManuStu-web&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ManuStu-web&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuStu-web&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
-
-</div>
 
 <br/>
 
